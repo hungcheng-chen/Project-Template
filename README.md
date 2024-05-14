@@ -1,15 +1,16 @@
 # Project-Template
 
-Welcome to the `Project-Template` project.
+## Introduction
+Welcome to the `Project-Template` project. This tool helps you initialize your Python project with a standard structure.
 
 ## Prerequisites
 
 Ensure you have the following:
 
-- **Python**: 3.6 or higher
+- **Python**: Version 3.6 or higher
 - **pip**: Python package installer
 
-Install `cookiecutter` if not already installed:
+Install `cookiecutter` if it's not already installed:
 
 ```bash
 pip install cookiecutter
