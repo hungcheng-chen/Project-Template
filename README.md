@@ -20,7 +20,6 @@ pip install cookiecutter
 1. **Clone the Repository**:
     ```sh
     git clone [Project URL]
-    cd Project-Template
     ```
 
 2. **Initialize the Project**:
