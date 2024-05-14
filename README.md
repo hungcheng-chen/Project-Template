@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the `Project-Template` project. This tool helps you initialize your Python project with a standard structure.
 
-## Prerequisites
+## Requirements
 
 Ensure you have the following:
 
