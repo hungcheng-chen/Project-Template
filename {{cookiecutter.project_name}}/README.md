@@ -14,7 +14,7 @@ To get started with `{{cookiecutter.project_name}}`, follow these steps:
     cd {{cookiecutter.project_slug}}
     ```
 
-2. **Install Dependencies**: (If applicable)
+2. **Install Dependencies**:
     ```sh
     pip install -r requirements.txt
     ```
@@ -26,7 +26,7 @@ To get started with `{{cookiecutter.project_name}}`, follow these steps:
 
 ## License
 
-This project is licensed under the terms of the {{cookiecutter.open_source_license}}. For more details, see the [LICENSE](LICENSE) file.
+This project is licensed under the terms of the `{{cookiecutter.open_source_license}}`. For more details, see the [LICENSE](LICENSE) file.
 
 ## Contact Information
 

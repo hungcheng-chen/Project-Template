@@ -33,9 +33,9 @@ To get started with `Project-Template`, follow these steps:
 
 ## License
 
-This project is licensed under the terms of the MIT License. For more details, see the [LICENSE](LICENSE) file.
+This project is licensed under the terms of the `MIT License`. For more details, see the [LICENSE](LICENSE) file.
 
-## Contact Information
+## Contact
 
-- **Author**: HungCheng Chen
+- **Author**: `HungCheng Chen`
 - **Email**: [hcchen.nick@gmail.com](mailto:hcchen.nick@gmail.com)
