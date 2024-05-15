@@ -19,6 +19,8 @@ pip install cookiecutter
 
 ## Quickstart
 
+To get started with `Project-Template`, follow these steps:
+
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/hungcheng-chen/Project-Template.git
@@ -28,6 +30,10 @@ pip install cookiecutter
     ```sh
     cookiecutter ./Project-Template
     ```
+
+## License
+
+This project is licensed under the terms of the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ## Contact Information
 

@@ -1,11 +1,11 @@
 # {{cookiecutter.project_name}}
 
+## Introduction
+
 Welcome to the `{{cookiecutter.project_name}}` project.
 
-## Introduction
-`{{cookiecutter.project_name}}` is a [brief description of the project].
-
 ## Quickstart
+
 To get started with `{{cookiecutter.project_name}}`, follow these steps:
 
 1. **Clone the Repository**:
@@ -24,10 +24,8 @@ To get started with `{{cookiecutter.project_name}}`, follow these steps:
     python {{cookiecutter.project_slug}}/main.py --help
     ```
 
-## Version
-Current version: `{{cookiecutter.version}}`
-
 ## License
+
 This project is licensed under the terms of the {{cookiecutter.open_source_license}}. For more details, see the [LICENSE](LICENSE) file.
 
 ## Contact Information
